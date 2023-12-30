@@ -150,8 +150,14 @@ body {
   .p-bold-20 {
     @apply font-bold text-[20px] leading-[30px] tracking-[2%];
   }
-  .p-paragraph {
+  .p-details-small {
     @apply font-light text-[14px] py-4;
+  }
+  .primary-section-title {
+    @apply text-purple md:text-[40px] text-[30px]  capitalize font-bold;
+  }
+  .p-details {
+    @apply font-light text-[16px] py-2;
   }
 
   .p-semibold-20 {

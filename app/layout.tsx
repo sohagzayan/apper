@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { Poppins } from 'next/font/google'
 import './globals.css'
 import ReduxProvider from '@/redux/provider'
+import 'remixicon/fonts/remixicon.css'
+
 
 const poppins = Poppins({
   subsets: ['latin'],

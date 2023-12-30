@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import HeroSearch from '../hero-search/HeroSearch'
+import HeroSearch from '../../hero-search/HeroSearch'
 import Image from 'next/image'
 import dynamic from 'next/dynamic';
 
@@ -12,7 +12,7 @@ const HeroSection = () => {
                     <h1 className='text-purple lg:text-[55px] text-[40px] -tracking-[1px] leading-tight font-bold'>
                         Best way to <span className='text-primary'>manage your customers.</span>
                     </h1>
-                    <p className='p-paragraph'>Find Jobs, Employment & Career Opportunities</p>
+                    <p className='p-details-small'>Find Jobs, Employment & Career Opportunities</p>
                     <HeroSearch />
                 </div >
                 <div className='lg:col-span-5 col-span-12 w-full '>
