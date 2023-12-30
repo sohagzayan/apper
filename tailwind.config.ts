@@ -99,6 +99,7 @@ module.exports = withUt({
       },
       boxShadow: {
         shadow1: "0px 4px 30px 0px #EDE9FE",
+        shadow_dark: "0px 4px 10px 0px #0c0c0c21",
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",

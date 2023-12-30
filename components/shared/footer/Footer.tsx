@@ -2,11 +2,13 @@ import Image from 'next/image'
 import React from 'react'
 import SocialMediaLink from '../social-media-link/SocialMediaLink'
 import Copyrights from '../copyrights/Copyrights'
+import SubscribeNewsletter from '../subscribe-newsletter/SubscribeNewsletter'
 
 const Footer = () => {
     return (
-        <footer className=' '>
-            <div className='bg-primary-600 pb-[20px] pt-[100px]'>
+        <footer className=''>
+            <SubscribeNewsletter />
+            <div className='bg-primary-600 pb-[20px] pt-[150px]'>
                 <div className='wrapper'>
                     <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1'>
                         <div className='flex flex-col gap-4'>
