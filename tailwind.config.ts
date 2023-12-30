@@ -21,6 +21,7 @@ module.exports = withUt({
       colors: {
         primary: {
           500: "#624CF5",
+          600: "#583bd3",
           50: " #F6F4FE",
           DEFAULT: "#6A49F2",
           foreground: "hsl(var(--primary-foreground))",

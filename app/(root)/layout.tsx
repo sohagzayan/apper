@@ -1,5 +1,6 @@
 import Header from "@/components/shared/Nav/Header"
 import MobileNav from "@/components/shared/Nav/MobileNav"
+import Footer from "@/components/shared/footer/Footer"
 
 export default function RootLayout({
     children,
@@ -11,6 +12,7 @@ export default function RootLayout({
             <Header />
             <MobileNav />
             <main>{children}</main>
+            <Footer />
         </div>
     )
 }

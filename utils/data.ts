@@ -126,3 +126,69 @@ export const featured_jobs = [
     urgency: "Urgent",
   },
 ];
+
+export const story_blog = [
+  {
+    title: "Cool Features Added!",
+    date_published: "11 January 2023",
+    author: "John Doe",
+    category: "Technology",
+    tags: ["Cool Features", "Software Development", "Android", "Libraries"],
+    content:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    featured_image: "story01.png",
+    share_count: 150,
+    comments: [
+      {
+        user: "Alice",
+        comment: "Great additions! Can't wait to try them out.",
+      },
+      {
+        user: "Bob",
+        comment: "Impressive work! Keep it up.",
+      },
+    ],
+  },
+  {
+    title: "Top rated app! Yupp.",
+    date_published: "11 January 2023",
+    author: "John Doe",
+    category: "Technology",
+    tags: ["Cool Features", "Software Development", "Android", "Libraries"],
+    content:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    featured_image: "story02.png",
+    share_count: 150,
+    comments: [
+      {
+        user: "Alice",
+        comment: "Great additions! Can't wait to try them out.",
+      },
+      {
+        user: "Bob",
+        comment: "Impressive work! Keep it up.",
+      },
+    ],
+  },
+  {
+    title: "Creative ideas on app.",
+    date_published: "11 January 2023",
+    author: "John Doe",
+    category: "Technology",
+    tags: ["Cool Features", "Software Development", "Android", "Libraries"],
+    content:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    featured_image: "story03.png",
+    share_count: 150,
+    comments: [
+      {
+        user: "Alice",
+        comment: "Great additions! Can't wait to try them out.",
+      },
+      {
+        user: "Bob",
+        comment: "Impressive work! Keep it up.",
+      },
+    ],
+  },
+];
