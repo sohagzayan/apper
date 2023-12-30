@@ -1,6 +1,7 @@
 import FeaturedJobs from '@/components/containers/home-page/featured-jobs/FeaturedJobs'
 import HeroSection from '@/components/containers/home-page/hero-section/HeroSection'
 import PopularJobCategories from '@/components/containers/home-page/popular-job-categories/PopularJobCategories'
+import FAQ from '@/components/shared/FAQ/FAQ'
 import Image from 'next/image'
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
       <HeroSection />
       <PopularJobCategories />
       <FeaturedJobs />
+      <FAQ />
     </main>
   )
 }
