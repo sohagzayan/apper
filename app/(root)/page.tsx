@@ -4,6 +4,7 @@ import MillionsOfJobs from '@/components/containers/home-page/millions-of-jobs/M
 import PopularJobCategories from '@/components/containers/home-page/popular-job-categories/PopularJobCategories'
 import ReadLatestStory from '@/components/containers/home-page/read-latest-article/ReadLatestArticle'
 import FAQ from '@/components/shared/FAQ/FAQ'
+import Recruiting from '@/components/shared/recruiting/Recruiting'
 import Image from 'next/image'
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
       <MillionsOfJobs />
       <FAQ />
       <ReadLatestStory />
+      <Recruiting />
     </main>
   )
 }
