@@ -192,3 +192,116 @@ export const story_blog = [
     ],
   },
 ];
+
+export const client_reviews = [
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+  {
+    review_title: "Great quality!",
+    review:
+      "Without JobHunt i’d be homeless, they found me a job and got me orted out quickly with everything! Can’t quite… The Mitech teamworks really hard to ensure high level of quality",
+    user: {
+      name: " John Doe",
+      title: "designer",
+      image: "testi-thumb-2.webp",
+    },
+  },
+];
