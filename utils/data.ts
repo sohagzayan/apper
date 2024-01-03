@@ -305,3 +305,33 @@ export const client_reviews = [
     },
   },
 ];
+
+export const job_type_data = [
+  { id: 1, label: "Freelancer", value: "freelancer" },
+  { id: 2, label: "Full Time", value: "full time" },
+  { id: 3, label: "Part Time", value: "part time" },
+  { id: 4, label: "Temporary", value: "temporary" },
+];
+export const date_posted_data = [
+  { id: 1, label: "All", value: "all" },
+  { id: 2, label: "Last Hour", value: "last hour" },
+  { id: 3, label: "Last 24 Hour", value: "last 24 hour" },
+  { id: 4, label: "Last 7 Days", value: "last 7 days" },
+  { id: 4, label: "Last 14 Days", value: "last 14 days" },
+  { id: 4, label: "Last 30 Days", value: "last 30 days" },
+];
+export const experience_level_data = [
+  { id: 1, label: "Fresh", value: "fresh" },
+  { id: 2, label: "1 Year", value: "1 year" },
+  { id: 3, label: "2 Year", value: "2 year" },
+  { id: 4, label: "3 Year", value: "3 year" },
+  { id: 4, label: "4 Year", value: "4 year" },
+];
+export const tags_data = [
+  "app",
+  "Administrative",
+  "Android",
+  "Wordpress",
+  "Design",
+  "React",
+];
